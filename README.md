@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harkonensaga
 - 👀 I’m interested in learning new things (and knitting).
 - 🌱 I’m currently studying in Tampere University.
-- ⚡ Fun fact: I pole vault competitively.
 
 <!---
 harkonensaga/harkonensaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
